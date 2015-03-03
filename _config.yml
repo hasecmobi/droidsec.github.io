@@ -291,3 +291,11 @@ members:
     title: Security Researcher
     bio: Fighting malware that get on strange stuff. Talked at VB, ShmooCon, BlackHat Europe, Insomni'Hack, Hack.lu...
   
+  hasecmobi:
+    name: hasecmobi
+    display_name: hasecmobi
+    twitter: hasec0
+    github: hasecmobi
+    title: Security Researcher
+    bio: security researcher with a focus on improving the security of mobile currently,have been woking on vulnerability research  on pc side for about  8 years
+  
